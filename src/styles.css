@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+}
+#count {
+  text-align: center;
+}
+#btnContainer {
+  display: flex;
+  justify-content: space-evenly;
+}
